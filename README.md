@@ -26,27 +26,6 @@ The system consists of:
 - **Health Monitoring**: Detect node failures through heartbeat mechanisms
 - **Fault Tolerance**: Automatically reschedule pods from failed nodes to healthy ones
 
-## Project Structure
-
-```
-distributed-cluster-simulation/
-├── api_server/
-│   ├── __init__.py
-│   ├── app.py            # Main Flask application
-│   ├── node_manager.py   # Node management functionality
-│   ├── pod_scheduler.py  # Pod scheduling
-│   └── health_monitor.py # Health monitoring
-├── node/
-│   ├── Dockerfile        # Docker configuration for nodes
-│   └── node_agent.py     # Node agent script
-├── cli/
-│   └── client.py         # Command-line interface
-├── utils/
-│   └── models.py         # Data models
-├── main.py               # Main application entry point
-├── requirements.txt      # Dependencies
-└── README.md             # Project documentation
-```
 
 ## Getting Started
 
