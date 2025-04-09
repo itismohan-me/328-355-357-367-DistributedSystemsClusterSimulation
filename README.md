@@ -56,44 +56,6 @@ distributed-cluster-simulation/
 - Docker
 - Git
 
-### Installation
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/[SRN1][SRN2][SRN3][SRN4]-DistributedSystemsClusterSimulation.git
-   cd distributed-cluster-simulation
-   ```
-
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Build the node agent Docker image:
-   ```
-   cd node
-   docker build -t node-agent .
-   cd ..
-   ```
-
-### Running the System
-
-1. Start the API server:
-   ```
-   python main.py
-   ```
-
-2. In a separate terminal, use the CLI to interact with the system:
-   ```
-   # Add a node with 4 CPU cores
-   python cli/client.py add-node --cpu 4
-   
-   # List all nodes
-   python cli/client.py list-nodes
-   
-   # Launch a pod requiring 2 CPU cores
-   python cli/client.py launch-pod --cpu 2
-   ```
 
 ## API Endpoints
 
