@@ -1,4 +1,4 @@
-# Distributed Systems Cluster Simulation Framework
+# Distributed Systems Cluster Simulation Framework 
 
 A lightweight simulation-based distributed system that mimics core Kubernetes cluster management functionalities, providing a simplified yet comprehensive platform for demonstrating key distributed computing concepts.
 
