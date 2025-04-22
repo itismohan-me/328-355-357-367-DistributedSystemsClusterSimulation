@@ -103,13 +103,19 @@ The Health Monitor periodically checks node health by monitoring heartbeats. Whe
 ## Execution Steps with Screenshots
 
 
+### Adding nodes and displaying their ID's
 ![image](https://github.com/user-attachments/assets/1b5857e9-9721-4e91-a25a-c1a079135a0a)
 
+____________________________________________
 
+#### Launching a pod & Node Status Monitoring
 ![image](https://github.com/user-attachments/assets/6d06d3ea-4707-495f-84df-69bd06ed3dba)
 
+____________________________________________
 
+#### Sending Heartbeat
 ![image](https://github.com/user-attachments/assets/ef8c2866-3b7e-4872-8ba0-e07e5fe04a2e)
+
 
 
 
@@ -120,11 +126,27 @@ Potential extensions to the project:
 - Node auto-scaling based on cluster load
 - Pod resource usage monitoring
 - Network policy simulation for pod communication control
-##results
+
+  
+## UI Screenshots
+
+### Home page once the server starts running
 ![WhatsApp Image 2025-04-22 at 10 53 07 AM](https://github.com/user-attachments/assets/ec6665d9-3de4-4fcb-b889-723a2d018f69)
+
+_____________________________________________
+### JSON Representation of Node Details
 ![WhatsApp Image 2025-04-22 at 10 55 06 AM](https://github.com/user-attachments/assets/71447917-3df8-46e5-9f1a-371cd22bd764)
+
+______________________________________________
+### Node Details in Tabular Format
 ![WhatsApp Image 2025-04-22 at 10 55 52 AM](https://github.com/user-attachments/assets/29afbaf6-b607-4d9f-867e-5b44becd00c4)
+
+______________________________________________
+### JSON Representation of Pod Details
 ![WhatsApp Image 2025-04-22 at 10 57 37 AM](https://github.com/user-attachments/assets/64053ed4-44f3-4db1-94b9-c577f15703d8)
+
+______________________________________________
+### Pod Details in Tabular format
 ![WhatsApp Image 2025-04-22 at 10 57 54 AM](https://github.com/user-attachments/assets/c184bdcb-ec8f-46ee-94da-b243c95ac5dc)
 
 ## Contributors
