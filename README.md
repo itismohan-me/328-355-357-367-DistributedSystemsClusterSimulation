@@ -62,12 +62,7 @@ To change the scheduling algorithm, modify the `pod_scheduler.set_scheduling_alg
 
 The system automatically monitors node health by expecting periodic heartbeats. If a node fails to send heartbeats, it's marked as failed, and the system attempts to reschedule its pods to other healthy nodes.
 
-## Testing
 
-Run the tests using pytest:
-```
-pytest
-```
 
 ## Implementation Details
 
