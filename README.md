@@ -100,6 +100,9 @@ The Health Monitor periodically checks node health by monitoring heartbeats. Whe
 - Implemented system testing
 - Completed documentation
 
+![image](https://github.com/user-attachments/assets/1b5857e9-9721-4e91-a25a-c1a079135a0a)
+
+
 ## Extensions and Enhancements
 
 Potential extensions to the project:
