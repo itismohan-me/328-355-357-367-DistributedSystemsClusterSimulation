@@ -107,6 +107,12 @@ Potential extensions to the project:
 - Node auto-scaling based on cluster load
 - Pod resource usage monitoring
 - Network policy simulation for pod communication control
+##results
+![WhatsApp Image 2025-04-22 at 10 53 07 AM](https://github.com/user-attachments/assets/ec6665d9-3de4-4fcb-b889-723a2d018f69)
+![WhatsApp Image 2025-04-22 at 10 55 06 AM](https://github.com/user-attachments/assets/71447917-3df8-46e5-9f1a-371cd22bd764)
+![WhatsApp Image 2025-04-22 at 10 55 52 AM](https://github.com/user-attachments/assets/29afbaf6-b607-4d9f-867e-5b44becd00c4)
+![WhatsApp Image 2025-04-22 at 10 57 37 AM](https://github.com/user-attachments/assets/64053ed4-44f3-4db1-94b9-c577f15703d8)
+![WhatsApp Image 2025-04-22 at 10 57 54 AM](https://github.com/user-attachments/assets/c184bdcb-ec8f-46ee-94da-b243c95ac5dc)
 
 ## Contributors
 - [MANAS R] ([PES1UG22CS328])
